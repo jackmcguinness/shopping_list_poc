@@ -1,0 +1,10 @@
+[
+  {
+    "name":"broccoli pasta",
+    "ingredients": ["broccoli", "garlic", "pasta", "nutritional yeast", "peas"]
+  },
+  {
+    "name":"gochujang tofu pasta",
+    "ingredients": ["pasta", "smoked tofu", "garlic", "tomato puree", "basil", "gochujang"]
+  }
+]
