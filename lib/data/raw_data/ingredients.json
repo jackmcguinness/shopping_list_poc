@@ -1,20 +1,16 @@
-// location options are veg, fridge, cupboard, freezer
-
 [
-  // veg
   { "name":"broccoli", "location":"veg" },
   { "name":"onion", "location":"veg" },
   { "name":"lemon", "location":"veg" },
   { "name":"carrot", "location":"veg" },
   { "name":"garlic", "location":"veg" },
   { "name":"parsley", "location":"veg" },
+  { "name":"basil", "location":"veg" },
   { "name":"chillies", "location":"veg" },
 
-  // fridge
   { "name":"smoked tofu", "location":"fridge" },
   { "name":"", "location":"" },
 
-  // cupboard
   { "name":"pasta", "location":"shelf" },
   { "name":"olives", "location":"shelf" },
   { "name":"sundried tomatoes", "location":"shelf" },
@@ -23,7 +19,6 @@
   { "name":"tomato puree", "location":"shelf" },
   { "name":"gochujang", "location":"shelf" },
 
-  // freezer
   { "name":"peas", "location":"freezer" },
   { "name":"", "location":"" }
 ]
