@@ -10,4 +10,10 @@ class Meal {
       ingredients: List<String>.from(json['ingredients'])
     );
   }
+
+  @override
+  String toString()
+  {
+    return '${name}: ${ingredients.toString()}';
+  }
 }
